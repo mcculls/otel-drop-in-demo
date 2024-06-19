@@ -1,0 +1,13 @@
+[
+  {
+    "type":"agent-extracted",
+    "classes":[
+      { "nameInfo":"example/jaxws_asm/package-info", "hash":"ddfe4ac1691db8537fbf69323e5e87a6a543ff33491156fcfae8a47cd8c5fb6d" },
+      { "nameInfo":"example/jaxws_asm/SayHi", "hash":"29070ed491c129474f88e7443a92c9eb45774167ad5ff065fa85cda7e391f71f" },
+      { "nameInfo":"example/jaxws_asm/SayHi_WrapperTypeHelper1", "hash":"168d9a638c82c30e23eceb6f3780a995cdc44d06ff3471c7285e502f69bec2b6" },
+      { "nameInfo":"example/jaxws_asm/SayHiResponse", "hash":"a106b072d2ae59fd3ecf96816ad72cee040de175ea92b21a68b9cf947bfe27af" },
+      { "nameInfo":"example/jaxws_asm/SayHiResponse_WrapperTypeHelper1", "hash":"574d69efeddbbc48b6b3df1cc0601afbdd21decf94384ada938010678c395284" }
+    ]
+  }
+]
+
